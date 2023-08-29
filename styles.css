@@ -11,6 +11,7 @@ body {
     margin: 30px 0 30px 0;
     background-image: url(./assets/imgfundo.png);
     background-size: cover;
+    background-attachment: fixed;
 
 }
 
@@ -20,10 +21,11 @@ body {
 }
 
 main {
+    position:;
     width: 35%;
     border-radius: 20px;
     background: #C7E8E7;
-    margin: auto;
+    margin:auto;
     padding: 24px 24px 23px;
     opacity: 0.8;
 }
